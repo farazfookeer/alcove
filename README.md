@@ -2,6 +2,16 @@
 
 **OpenClaw without the stress.** A desktop app that installs, configures, and manages [OpenClaw](https://openclaw.ai) for non-technical users. No terminal. No config files. No jargon.
 
+## Screenshots
+
+| Welcome | Choose your AI brain | Review & Launch |
+|---------|---------------------|-----------------|
+| ![Welcome](screenshots/01-welcome.png) | ![Provider](screenshots/02-provider.png) | ![Review](screenshots/04-review.png) |
+
+| Dashboard | Channels | Model Picker |
+|-----------|----------|--------------|
+| ![Dashboard](screenshots/05-dashboard.png) | ![Channels](screenshots/06-channels.png) | ![Models](screenshots/03-models.png) |
+
 ## What is this?
 
 Alcove wraps the entire OpenClaw lifecycle into a friendly desktop app: install, configure, run, update, and monitor your AI assistant — all through a visual interface. Pick your AI brain, connect your messaging apps, install skills, and you're done.
